@@ -1,0 +1,1681 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.12)  14 DEC 2020 15:53
+entering extended mode
+**./assignment_template.tex
+(assignment_template.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/nag\nag.st
+y"
+Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
+\c@nag@c=\count175
+\c@nag@sins=\count176
+Package nag Info: Loaded nag-l2tabu.cfg  on input line 552.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/nag\nag-l2
+tabu.cfg"
+File: nag-l2tabu.cfg 2010/05/17 v2.11 l2tabu rules for nag.sty (ulmi)
+)
+Package nag Info: Loaded nag-orthodox.cfg  on input line 552.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/nag\nag-or
+thodox.cfg"
+File: nag-orthodox.cfg 2006/04/19 v1.8 strict rules for nag.sty (ulmi)
+)) (resources/WeSTassignment.cls
+
+LaTeX Warning: You have requested document class `resources/WeSTassignment',
+               but the document class provides `WeSTassignment'.
+
+Document Class: WeSTassignment 2016/04/13 v1.0 WeSTassignment
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\scrartcl.cls"
+Document Class: scrartcl 2020/09/21 v3.32 KOMA-Script document class (article)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\scrkbase.sty"
+Package: scrkbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\scrbase.sty"
+Package: scrbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\scrlfile.sty"
+Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\scrlfile-hook.sty"
+Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
+
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     93.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     173.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     191.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 234.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 242.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 247.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 261.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     274.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 298.
+
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\scrlogo.sty"
+Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
+)))
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)))
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\tocbasic.sty"
+Package: tocbasic 2020/09/21 v3.32 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box47
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 135.
+Package scrartcl Info: You've used standard option `11pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=11pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=11pt' there
+(scrartcl)             instead of `11pt', too.
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 2222.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\scrsize11pt.clo"
+File: scrsize11pt.clo 2020/09/21 v3.32 KOMA-Script font size class option (11pt
+)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/koma-scrip
+t\typearea.sty"
+Package: typearea 2020/09/21 v3.32 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count177
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1740.
+)
+\c@part=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\scr@dte@section@maxnumwidth=\skip53
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4795.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4795.
+\scr@dte@part@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4803.
+\scr@dte@subsection@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4813.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4813.
+\scr@dte@subsubsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4823.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4823.
+\scr@dte@paragraph@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4834.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4834.
+\scr@dte@subparagraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4844.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4844.
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\c@pti@nb@sid@b@x=\box48
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6076.
+
+\scr@dte@figure@maxnumwidth=\skip61
+\c@figure=\count184
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6088.
+
+\scr@dte@table@maxnumwidth=\skip62
+\c@table=\count185
+Class scrartcl Info: Redefining `\numberline' on input line 6252.
+\bibindent=\dimen138
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\fonte
+nc.sty"
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\textc
+omp.sty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/microtype\
+microtype.sty"
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks16
+\MT@count=\count186
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen139
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count187
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/microtype\
+microtype-pdftex.def"
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip63
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/microtype\
+microtype.cfg"
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\
+mathtools.sty"
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc
+.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count188
+\calc@Bcount=\count189
+\calc@Adimen=\dimen140
+\calc@Bdimen=\dimen141
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count190
+\calc@Cskip=\skip66
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\
+mhsetup.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+smath.sty"
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip67
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+stext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+sgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen142
+))
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+sbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+sopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks18
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks19
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks20
+\multlinegap=\skip68
+\multlinetaggap=\skip69
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count269
+\l_MT_multwidth_dim=\dimen151
+\origjot=\skip70
+\l_MT_shortvdotswithinadjustabove_dim=\dimen152
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen153
+\l_MT_above_intertext_sep=\dimen154
+\l_MT_below_intertext_sep=\dimen155
+\l_MT_above_shortintertext_sep=\dimen156
+\l_MT_below_shortintertext_sep=\dimen157
+\xmathstrut@box=\box51
+\xmathstrut@dim=\dimen158
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\c
+squotes.sty"
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\e
+toolbox.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+)
+\csq@reset=\count271
+\csq@gtype=\count272
+\csq@glevel=\count273
+\csq@qlevel=\count274
+\csq@maxlvl=\count275
+\csq@tshold=\count276
+\csq@ltx@everypar=\toks22
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\c
+squotes.def"
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\c
+squotes.cfg"
+File: csquotes.cfg 
+))
+
+Class scrartcl Warning: Usage of package `parskip' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use option
+(scrartcl)              `parskip' with one of it's several values.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `parskip' on input line 60.
+
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/parskip\pa
+rskip.sty"
+Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\
+kvoptions.sty"
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\
+ltxcmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkey
+s\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+Couldn't patch \@startsection
+)
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
+(scrartcl)              they support KOMA-Script classes.
+(scrartcl)              With `fancyhdr' several features of class `scrartcl'
+(scrartcl)              like options `headsepline', `footsepline' or command
+(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrartcl)              `\addtokomafont' for the page style elements need
+(scrartcl)              explicite user intervention to work.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 63.
+
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\f
+ancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip71
+\f@nch@O@elh=\skip72
+\f@nch@O@erh=\skip73
+\f@nch@O@olh=\skip74
+\f@nch@O@orh=\skip75
+\f@nch@O@elf=\skip76
+\f@nch@O@erf=\skip77
+\f@nch@O@olf=\skip78
+\f@nch@O@orf=\skip79
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/caption\ca
+ption.sty"
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/caption\ca
+ption3.sty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen159
+\captionmargin@=\dimen160
+\captionwidth=\dimen161
+\caption@tempdima=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
+Package caption Info: KOMA-Script document class detected.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/caption\ca
+ption-koma.sto"
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count277
+\c@continuedfloat=\count278
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xco
+lor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/graphics-c
+fg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/graphics-d
+ef\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/environ\en
+viron.sty"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces
+\trimspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\h
+yperref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/iftex\if
+tex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcm
+ds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/infwarer
+r\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/kvdefine
+keys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/pdfescap
+e\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hy
+color.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacr
+o\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\au
+xhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count279
+\Hy@pagecounter=\count280
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\p
+d1enc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\
+intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds
+\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count281
+Package hyperref Info: Option `unicode' set `true' on input line 4338.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\p
+uenc.def"
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count282
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/url\url.st
+y"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen167
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/bitset\b
+itset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/bigintca
+lc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count283
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\atbeg
+shi-ltx.sty"
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count284
+\c@Item=\count285
+\c@Hfootnote=\count286
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\h
+pdftex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\atver
+yend-ltx.sty"
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count287
+\c@bookmark@seq@number=\count288
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilec
+heck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/uniqueco
+unter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip80
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\c
+leveref.sty"
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: always capitalise cross-reference names on input line 78
+25.
+Package cleveref Info: include cross-reference names in hyperlinks on input lin
+e 7836.
+Package cleveref Info: always capitalise cross-reference names on input line 78
+52.
+Package cleveref Info: include cross-reference names in hyperlinks on input lin
+e 7852.
+Package cleveref Info: no abbreviation of names on input line 7852.
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/algorithms
+\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/float\floa
+t.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count289
+\float@exts=\toks23
+\float@box=\box52
+\@float@everytoks=\toks24
+\@floatcapt=\box53
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthe
+n.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks25
+\c@algorithm=\count290
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/algorithmi
+cx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/algorithmi
+cx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count291
+\c@ALG@rem=\count292
+\c@ALG@nested=\count293
+\ALG@tlm=\skip81
+\ALG@thistlm=\skip82
+\c@ALG@Lnr=\count294
+\c@ALG@blocknr=\count295
+\c@ALG@storecount=\count296
+\c@ALG@tmpcounter=\count297
+\ALG@tmplength=\skip83
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/listings\l
+istings.sty"
+\lst@mode=\count298
+\lst@gtempboxa=\box54
+\lst@token=\toks26
+\lst@length=\count299
+\lst@currlwidth=\dimen170
+\lst@column=\count300
+\lst@pos=\count301
+\lst@lostspace=\dimen171
+\lst@width=\dimen172
+\lst@newlines=\count302
+\lst@lineno=\count303
+\lst@maxwidth=\dimen173
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/listings\l
+stmisc.sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count304
+\lst@skipnumbers=\count305
+\lst@framebox=\box55
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/listings\l
+istings.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\b
+iblatex.sty"
+Package: biblatex 2020/08/23 v3.15a programmable bibliographies (PK/MW)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/logreq\log
+req.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count306
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/logreq\log
+req.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count307
+\c@listtotal=\count308
+\c@listcount=\count309
+\c@liststart=\count310
+\c@liststop=\count311
+\c@citecount=\count312
+\c@citetotal=\count313
+\c@multicitecount=\count314
+\c@multicitetotal=\count315
+\c@instcount=\count316
+\c@maxnames=\count317
+\c@minnames=\count318
+\c@maxitems=\count319
+\c@minitems=\count320
+\c@citecounter=\count321
+\c@maxcitecounter=\count322
+\c@savedcitecounter=\count323
+\c@uniquelist=\count324
+\c@uniquename=\count325
+\c@refsection=\count326
+\c@refsegment=\count327
+\c@maxextratitle=\count328
+\c@maxextratitleyear=\count329
+\c@maxextraname=\count330
+\c@maxextradate=\count331
+\c@maxextraalpha=\count332
+\c@abbrvpenalty=\count333
+\c@highnamepenalty=\count334
+\c@lownamepenalty=\count335
+\c@maxparens=\count336
+\c@parenlevel=\count337
+\blx@tempcnta=\count338
+\blx@tempcntb=\count339
+\blx@tempcntc=\count340
+\blx@maxsection=\count341
+\blx@maxsegment@0=\count342
+\blx@notetype=\count343
+\blx@parenlevel@text=\count344
+\blx@parenlevel@foot=\count345
+\blx@sectionciteorder@0=\count346
+\blx@entrysetcounter=\count347
+\blx@biblioinstance=\count348
+\labelnumberwidth=\skip84
+\labelalphawidth=\skip85
+\biblabelsep=\skip86
+\bibitemsep=\skip87
+\bibnamesep=\skip88
+\bibinitsep=\skip89
+\bibparsep=\skip90
+\bibhang=\skip91
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count349
+\c@maxcomprange=\count350
+\c@mincompwidth=\count351
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\b
+lx-dm.def"
+File: blx-dm.def 2020/08/23 v3.15a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'verbose.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count352
+\c@savedafterword=\count353
+\c@annotator=\count354
+\c@savedannotator=\count355
+\c@author=\count356
+\c@savedauthor=\count357
+\c@bookauthor=\count358
+\c@savedbookauthor=\count359
+\c@commentator=\count360
+\c@savedcommentator=\count361
+\c@editor=\count362
+\c@savededitor=\count363
+\c@editora=\count364
+\c@savededitora=\count365
+\c@editorb=\count366
+\c@savededitorb=\count367
+\c@editorc=\count368
+\c@savededitorc=\count369
+\c@foreword=\count370
+\c@savedforeword=\count371
+\c@holder=\count372
+\c@savedholder=\count373
+\c@introduction=\count374
+\c@savedintroduction=\count375
+\c@namea=\count376
+\c@savednamea=\count377
+\c@nameb=\count378
+\c@savednameb=\count379
+\c@namec=\count380
+\c@savednamec=\count381
+\c@translator=\count382
+\c@savedtranslator=\count383
+\c@shortauthor=\count384
+\c@savedshortauthor=\count385
+\c@shorteditor=\count386
+\c@savedshorteditor=\count387
+\c@labelname=\count388
+\c@savedlabelname=\count389
+\c@institution=\count390
+\c@savedinstitution=\count391
+\c@lista=\count392
+\c@savedlista=\count393
+\c@listb=\count394
+\c@savedlistb=\count395
+\c@listc=\count396
+\c@savedlistc=\count397
+\c@listd=\count398
+\c@savedlistd=\count399
+\c@liste=\count400
+\c@savedliste=\count401
+\c@listf=\count402
+\c@savedlistf=\count403
+\c@location=\count404
+\c@savedlocation=\count405
+\c@organization=\count406
+\c@savedorganization=\count407
+\c@origlocation=\count408
+\c@savedoriglocation=\count409
+\c@origpublisher=\count410
+\c@savedorigpublisher=\count411
+\c@publisher=\count412
+\c@savedpublisher=\count413
+\c@language=\count414
+\c@savedlanguage=\count415
+\c@origlanguage=\count416
+\c@savedoriglanguage=\count417
+\c@pageref=\count418
+\c@savedpageref=\count419
+\shorthandwidth=\skip92
+\shortjournalwidth=\skip93
+\shortserieswidth=\skip94
+\shorttitlewidth=\skip95
+\shortauthorwidth=\skip96
+\shorteditorwidth=\skip97
+\locallabelnumberwidth=\skip98
+\locallabelalphawidth=\skip99
+\localshorthandwidth=\skip100
+\localshortjournalwidth=\skip101
+\localshortserieswidth=\skip102
+\localshorttitlewidth=\skip103
+\localshortauthorwidth=\skip104
+\localshorteditorwidth=\skip105
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\b
+lx-compat.def"
+File: blx-compat.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\e
+xpl3.sty"
+Package: expl3 2020-10-27 L3 programming layer (loader) 
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\
+l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count420
+\l__pdf_internal_box=\box56
+))
+Package biblatex Info: expl3
+(biblatex)             2020-10-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+Package biblatex Info: Trying to load expl3 case changing code...
+Package biblatex Info: ... file 'blx-case-expl3.def' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\b
+lx-case-expl3.def"
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/l3packages
+/xparse\xparse.sty"
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/l3packages
+/xparse\xparse-generic.tex"))
+File: blx-case-expl3 2020/08/23 v3.15a expl3 case changing code for biblatex
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\b
+iblatex.def"
+File: biblatex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+\c@textcitecount=\count421
+\c@textcitetotal=\count422
+\c@textcitemaxnames=\count423
+\c@biburlbigbreakpenalty=\count424
+\c@biburlbreakpenalty=\count425
+\c@biburlnumpenalty=\count426
+\c@biburlucpenalty=\count427
+\c@biburllcpenalty=\count428
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count429
+)
+Package biblatex Info: Trying to load bibliography style 'verbose'...
+Package biblatex Info: ... file 'verbose.bbx' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/b
+bx\verbose.bbx"
+File: verbose.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.bbx' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/b
+bx\authortitle.bbx"
+File: authortitle.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/b
+bx\standard.bbx"
+File: standard.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count430
+\c@bbx:relatedtotal=\count431
+)))
+Package biblatex Info: Trying to load citation style 'verbose'...
+Package biblatex Info: ... file 'verbose.cbx' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/c
+bx\verbose.cbx"
+File: verbose.cbx 2020/08/23 v3.15a biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\b
+iblatex.cfg"
+File: biblatex.cfg 
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 134.
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabu
+larx.sty"
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/tools\arra
+y.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen174
+\ar@mcellbox=\box57
+\extrarowheight=\dimen175
+\NC@list=\toks27
+\extratabsurround=\skip106
+\backup@length=\skip107
+\ar@cellbox=\box58
+)
+\TX@col@width=\dimen176
+\TX@old@table=\dimen177
+\TX@old@col=\dimen178
+\TX@target=\dimen179
+\TX@delta=\dimen180
+\TX@cols=\count432
+\TX@ftn=\toks28
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\b
+ooktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen181
+\lightrulewidth=\dimen182
+\cmidrulewidth=\dimen183
+\belowrulesep=\dimen184
+\belowbottomsep=\dimen185
+\aboverulesep=\dimen186
+\abovetopsep=\dimen187
+\cmidrulesep=\dimen188
+\cmidrulekern=\dimen189
+\defaultaddspace=\dimen190
+\@cmidla=\count433
+\@cmidlb=\count434
+\@aboverulesep=\dimen191
+\@belowrulesep=\dimen192
+\@thisruleclass=\count435
+\@lastruleclass=\count436
+\@thisrulewidth=\dimen193
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\input
+enc.sty"
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks29
+\inpenc@posthook=\toks30
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/graphics\g
+raphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/graphics\g
+raphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen194
+\Gin@req@width=\dimen195
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/changebar\
+changebar.sty"
+Package: changebar 2018/03/09 v3.6c Indicate changes with marginal bars
+\cb@nextpoint=\count437
+\cb@topleft=\count438
+\cb@topright=\count439
+\cb@botleft=\count440
+\cb@botright=\count441
+\cb@cnta=\count442
+\cb@cntb=\count443
+\cb@dima=\dimen196
+\cb@curbarwd=\dimen197
+\cb@page=\count444
+\cb@pagecount=\count445
+\cb@odd@left=\dimen198
+\cb@odd@right=\dimen199
+\cb@even@left=\dimen256
+\cb@even@right=\dimen257
+\cb@writexy=\write4
+\cb@readxy=\read3
+\openout4 = `assignment_template.cb2'.
+
+\changebarwidth=\skip108
+\deletebarwidth=\skip109
+\changebarsep=\skip110
+\c@changebargrey=\count446
+\cb@write=\write5
+\cb@read=\read4
+\openout5 = `assignment_template.cb'.
+
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\latex
+sym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\s
+tmaryrd.sty"
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\wa
+sysym.sty"
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\
+adjustbox.sty"
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xk
+eyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\
+xkeyval.tex"
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\
+xkvutils.tex"
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count447
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\
+adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\
+trimclip.sty"
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/collectbox
+\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box59
+)
+\tc@llx=\dimen258
+\tc@lly=\dimen259
+\tc@urx=\dimen260
+\tc@ury=\dimen261
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\
+tc-pdftex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen262
+\adjbox@Height=\dimen263
+\adjbox@Depth=\dimen264
+\adjbox@Totalheight=\dimen265
+\adjbox@pwidth=\dimen266
+\adjbox@pheight=\dimen267
+\adjbox@pdepth=\dimen268
+\adjbox@ptotalheight=\dimen269
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\
+ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count448
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\v
+arwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box60
+\sift@deathcycles=\count449
+\@vwid@loff=\dimen270
+\@vwid@roff=\dimen271
+))
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/easy\easyt
+able.sty"
+Document Style `easytable' v1.0 <2001/06/13>.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/easy\easy.
+sty"
+Document Style `easy' v1.1 <2001/05/31>.
+Package: easy 2001/05/31 v1.1
+\@easy@level=\count450
+\@easy@ncol=\count451
+\@easy@nrow=\count452
+\@easy@cnt=\count453
+\@easy@boxviii=\box61
+\@easy@minxviii=\dimen272
+\@easy@minyviii=\dimen273
+\@easy@maxxviii=\dimen274
+\@easy@maxyviii=\dimen275
+\@easy@boxvii=\box62
+\@easy@minxvii=\dimen276
+\@easy@minyvii=\dimen277
+\@easy@maxxvii=\dimen278
+\@easy@maxyvii=\dimen279
+\@easy@boxvi=\box63
+\@easy@minxvi=\dimen280
+\@easy@minyvi=\dimen281
+\@easy@maxxvi=\dimen282
+\@easy@maxyvi=\dimen283
+\@easy@boxv=\box64
+\@easy@minxv=\dimen284
+\@easy@minyv=\dimen285
+\@easy@maxxv=\dimen286
+\@easy@maxyv=\dimen287
+\@easy@boxiv=\box65
+\@easy@minxiv=\dimen288
+\@easy@minyiv=\dimen289
+\@easy@maxxiv=\dimen290
+\@easy@maxyiv=\dimen291
+\@easy@boxiii=\box66
+\@easy@minxiii=\dimen292
+\@easy@minyiii=\dimen293
+\@easy@maxxiii=\dimen294
+\@easy@maxyiii=\dimen295
+\@easy@boxii=\box67
+\@easy@minxii=\dimen296
+\@easy@minyii=\dimen297
+\@easy@maxxii=\dimen298
+\@easy@maxyii=\dimen299
+\@easy@boxi=\box68
+\@easy@minxi=\dimen300
+\@easy@minyi=\dimen301
+\@easy@maxxi=\dimen302
+\@easy@maxyi=\dimen303
+\@easy@hsizexxx=\dimen304
+\@easy@vsizexxx=\dimen305
+\@easy@hsizexxix=\dimen306
+\@easy@vsizexxix=\dimen307
+\@easy@hsizexxviii=\dimen308
+\@easy@vsizexxviii=\dimen309
+\@easy@hsizexxvii=\dimen310
+\@easy@vsizexxvii=\dimen311
+\@easy@hsizexxvi=\dimen312
+\@easy@vsizexxvi=\dimen313
+\@easy@hsizexxv=\dimen314
+\@easy@vsizexxv=\dimen315
+\@easy@hsizexxiv=\dimen316
+\@easy@vsizexxiv=\dimen317
+\@easy@hsizexxiii=\dimen318
+\@easy@vsizexxiii=\dimen319
+\@easy@hsizexxii=\dimen320
+\@easy@vsizexxii=\dimen321
+\@easy@hsizexxi=\dimen322
+\@easy@vsizexxi=\dimen323
+\@easy@hsizexx=\dimen324
+\@easy@vsizexx=\dimen325
+\@easy@hsizexix=\dimen326
+\@easy@vsizexix=\dimen327
+\@easy@hsizexviii=\dimen328
+\@easy@vsizexviii=\dimen329
+\@easy@hsizexvii=\dimen330
+\@easy@vsizexvii=\dimen331
+\@easy@hsizexvi=\dimen332
+\@easy@vsizexvi=\dimen333
+\@easy@hsizexv=\dimen334
+\@easy@vsizexv=\dimen335
+\@easy@hsizexiv=\dimen336
+\@easy@vsizexiv=\dimen337
+\@easy@hsizexiii=\dimen338
+\@easy@vsizexiii=\dimen339
+\@easy@hsizexii=\dimen340
+\@easy@vsizexii=\dimen341
+\@easy@hsizexi=\dimen342
+\@easy@vsizexi=\dimen343
+\@easy@hsizex=\dimen344
+\@easy@vsizex=\dimen345
+\@easy@hsizeix=\dimen346
+\@easy@vsizeix=\dimen347
+\@easy@hsizeviii=\dimen348
+\@easy@vsizeviii=\dimen349
+\@easy@hsizevii=\dimen350
+\@easy@vsizevii=\dimen351
+\@easy@hsizevi=\dimen352
+\@easy@vsizevi=\dimen353
+\@easy@hsizev=\dimen354
+\@easy@vsizev=\dimen355
+\@easy@hsizeiv=\dimen356
+\@easy@vsizeiv=\dimen357
+\@easy@hsizeiii=\dimen358
+\@easy@vsizeiii=\dimen359
+\@easy@hsizeii=\dimen360
+\@easy@vsizeii=\dimen361
+\@easy@hsizei=\dimen362
+\@easy@vsizei=\dimen363
+\@easy@dash@len=\dimen364
+\@easy@dash@sep=\dimen365
+)
+Package: easytable 2001/05/31v1.1
+\@tab@size@rule=\dimen366
+\@tab@size@dash=\dimen367
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/framed\fra
+med.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip111
+\fb@frw=\dimen368
+\fb@frh=\dimen369
+\FrameRule=\dimen370
+\FrameSep=\dimen371
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\f
+ootnote.sty"
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box69
+\fn@width=\dimen372
+)
+
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 48.
+
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+
+Package biblatex Warning: Conflicting options.
+(biblatex)                'uniquelist=minyear' requires 'labeldateparts'.
+(biblatex)                Setting 'uniquelist=true' on input line 48.
+
+(assignment_template.aux)
+\openout1 = `assignment_template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+Package nag Info: Command \frontmatter not defined, skipping amendment on input
+ line 48.
+Package nag Info: Command \mainmatter not defined, skipping amendment on input 
+line 48.
+Package nag Info: Command \backmatter not defined, skipping amendment on input 
+line 48.
+Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
+line 48.
+Package nag Info: Command \RaggedRight not defined, skipping amendment on input
+ line 48.
+Package scrbase Info: activating english \contentsname on input line 48.
+Package scrbase Info: activating english \listfigurename on input line 48.
+Package scrbase Info: activating english \listtablename on input line 48.
+LaTeX Info: Redefining \microtypecontext on input line 48.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 48.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/microtype\
+mt-cmr.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/context/base/mki
+i\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count454
+\scratchdimen=\dimen373
+\scratchbox=\box70
+\nofMPsegments=\count455
+\nofMParguments=\count456
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count457
+\MPscratchDim=\dimen374
+\MPnumerator=\count458
+\makeMPintoPDFobject=\count459
+\everyMPtoPDFconversion=\toks34
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-p
+kg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package hyperref Info: Link coloring ON on input line 48.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\n
+ameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/refcount\r
+efcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/generic/gettitle
+string\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count460
+)
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
+ (assignment_template.out) (assignment_template.out)
+\@outlinefile=\write6
+\openout6 = `assignment_template.out'.
+
+Class scrartcl Info: loading recommended package `bookmark'.
+(scrartcl)           Using `bookmark' together with `hyperref' is recommended,
+(scrartcl)           because of handling of possible bookmark level gaps.
+(scrartcl)           You can avoid loading `bookmark' with KOMA-Script option
+(scrartcl)           `bookmarkpackage=false' before \begin{document} and
+(scrartcl)           you can avoid this message adding:
+(scrartcl)             \usepackage{bookmark}
+(scrartcl)           before \begin{document} on input line 48.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\b
+ookmark.sty"
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\b
+km-pdftex.def"
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count461
+))
+\c@lstlisting=\count462
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/l
+bx\english.lbx"
+File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `assignment_template.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'assignment_template.bbl' not found.
+
+No file assignment_template.bbl.
+Package biblatex Info: Reference section=0 on input line 48.
+Package biblatex Info: Reference segment=0 on input line 48.
+Package nag Info: Command \hc@caption not defined, skipping amendment on input 
+line 48.
+Package nag Info: Command \topcaption not defined, skipping amendment on input 
+line 48.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 5
+1.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cms
+s.fd"
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 51
+.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy
+.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 5
+1.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\u
+stmry.fd")
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 51
+.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uw
+asy.fd"
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+1.
+
+("C:\Users\Pavithre B Shetty\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmt
+t.fd"
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
+
+
+{C:/Users/Pavithre B Shetty/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 51.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Overfull \hbox (15.08083pt too wide) in paragraph at lines 57--58
+\T1/cmtt/m/n/10.95 wikipedia_en_simple_all_nopic_2020-10.zim \T1/cmr/m/n/10.95 
+(-20) and then set up \T1/cmtt/m/n/10.95 dockerized Kiwix Server
+ []
+
+
+Overfull \hbox (33.7346pt too wide) in paragraph at lines 60--61
+[]\T1/cmr/m/n/10.95 (-20) Download the Sim-ple En-glish Wiki 2020 (\T1/cmtt/m/n
+/10.95 wikipedia_en_simple_all_nopic_2020-10.zim\T1/cmr/m/n/10.95 (-20) )
+ []
+
+
+Overfull \hbox (3.93388pt too wide) in paragraph at lines 65--67
+\T1/cmr/m/n/10.95 (-20) You can start crawl-ing from [][]$\T1/cmtt/m/n/10.95 ht
+tp : / / localhost : 8080 / wikipedia _ en _ simple _ all _ nopic _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+<resources/logo_west_small.png, id=22, 763.434pt x 158.556pt>
+File: resources/logo_west_small.png Graphic file (type png)
+<use resources/logo_west_small.png>
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 82.
+(pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
+[2
+
+ <./resources/logo_west_small.png>]
+Overfull \hbox (79.63521pt too wide) in paragraph at lines 97--98
+[]\T1/cmr/m/n/10.95 (-20) Top 10 ex-ter-nal pages (pages with a do-main which i
+s not \T1/cmtt/m/n/10.95 wikipedia_en_simple_all_nopic_2020-10\T1/cmr/m/n/10.95
+ (-20) )
+ []
+
+File: resources/logo_west_small.png Graphic file (type png)
+<use resources/logo_west_small.png>
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 103.
+
+(pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
+[3]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 103.
+
+<resources/vector.JPG, id=54, 290.88675pt x 248.127pt>
+File: resources/vector.JPG Graphic file (type jpg)
+<use resources/vector.JPG>
+Package pdftex.def Info: resources/vector.JPG  used on input line 119.
+(pdftex.def)             Requested size: 290.88603pt x 248.12637pt.
+File: resources/logo_west_small.png Graphic file (type png)
+<use resources/logo_west_small.png>
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 127.
+
+(pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
+[4
+
+ <./resources/vector.JPG>]
+<resources/Internet_Hosts_Count_log.png, id=75, 602.25pt x 481.8pt>
+File: resources/Internet_Hosts_Count_log.png Graphic file (type png)
+<use resources/Internet_Hosts_Count_log.png>
+Package pdftex.def Info: resources/Internet_Hosts_Count_log.png  used on input 
+line 151.
+(pdftex.def)             Requested size: 301.12425pt x 240.8994pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: resources/logo_west_small.png Graphic file (type png)
+<use resources/logo_west_small.png>
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 155.
+
+(pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
+[5]
+File: resources/logo_west_small.png Graphic file (type png)
+<use resources/logo_west_small.png>
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 155.
+
+(pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
+ [6 <./resources/Internet_Hosts_Count_log.png>]
+No complaints by nag.
+(assignment_template.aux)
+Package rerunfilecheck Info: File `assignment_template.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                assignment_template
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'assignment_template.run.xml'.
+\openout1 = `assignment_template.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 29803 strings out of 479799
+ 532034 string characters out of 2863984
+ 1427929 words of memory out of 3000000
+ 46269 multiletter control sequences out of 15000+200000
+ 557327 words of font info for 116 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 119i,15n,124p,10638b,802s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Pavithre B Shetty/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-
+super/cm-super-t1.enc}{C:/Users/Pavithre B Shetty/AppData/Local/Programs/MiKTeX
+/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Users/Pavithre B Shetty/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Pavit
+hre B Shetty/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Users/Pavithre B Shetty/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/cm-super/sfbx1095.pfb><C:/Users/Pavithre B Shetty/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/cm-super/sfrm0600.pfb><C:/Users/Pavithre B Shetty/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Users/Pavi
+thre B Shetty/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm090
+0.pfb><C:/Users/Pavithre B Shetty/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/cm-super/sfrm1095.pfb><C:/Users/Pavithre B Shetty/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Users/Pavithre B Shetty/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfsx1200.pfb><C:/Users/Pav
+ithre B Shetty/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfsx14
+40.pfb><C:/Users/Pavithre B Shetty/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/cm-super/sfsx2074.pfb><C:/Users/Pavithre B Shetty/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/cm-super/sfti1095.pfb><C:/Users/Pavithre B Shetty/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sftt0900.pfb><C:/Users/Pa
+vithre B Shetty/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sftt1
+095.pfb>
+Output written on assignment_template.pdf (6 pages, 459344 bytes).
+PDF statistics:
+ 173 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 22584 words of extra memory for PDF output out of 24883 (max. 10000000)
+
