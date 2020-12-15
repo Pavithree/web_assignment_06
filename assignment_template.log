@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.13)  15 DEC 2020 19:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.13)  15 DEC 2020 20:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1413,36 +1413,50 @@ File: resources/crawl_count.png Graphic file (type png)
 <use resources/crawl_count.png>
 Package pdftex.def Info: resources/crawl_count.png  used on input line 121.
 (pdftex.def)             Requested size: 345.79103pt x 16.56183pt.
-<resources/wiki-top-ten.png, id=53, 658.46pt x 234.8775pt>
-File: resources/wiki-top-ten.png Graphic file (type png)
-<use resources/wiki-top-ten.png>
-Package pdftex.def Info: resources/wiki-top-ten.png  used on input line 127.
-(pdftex.def)             Requested size: 329.2292pt x 117.43846pt.
-<resources/ext-top-ten.png, id=54, 1308.89pt x 241.90375pt>
-File: resources/ext-top-ten.png Graphic file (type png)
-<use resources/ext-top-ten.png>
-Package pdftex.def Info: resources/ext-top-ten.png  used on input line 133.
-(pdftex.def)             Requested size: 654.4434pt x 120.95157pt.
+<resources/internal.png, id=53, 825.0825pt x 578.16pt>
+File: resources/internal.png Graphic file (type png)
+<use resources/internal.png>
+Package pdftex.def Info: resources/internal.png  used on input line 127.
+(pdftex.def)             Requested size: 412.54024pt x 289.07928pt.
+<resources/external.png, id=54, 821.0675pt x 781.92125pt>
+File: resources/external.png Graphic file (type png)
+<use resources/external.png>
+Package pdftex.def Info: resources/external.png  used on input line 133.
+(pdftex.def)             Requested size: 410.53275pt x 390.95967pt.
 
-Overfull \hbox (236.18785pt too wide) in paragraph at lines 133--134
- [][] 
- []
-
-<resources/mean_sigma.png, id=55, 807.015pt x 49.18375pt>
-File: resources/mean_sigma.png Graphic file (type png)
-<use resources/mean_sigma.png>
-Package pdftex.def Info: resources/mean_sigma.png  used on input line 139.
-(pdftex.def)             Requested size: 403.50652pt x 24.5918pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<resources/log-file.png, id=56, 1148.29pt x 1015.795pt>
+<resources/children_internal.png, id=55, 917.4275pt x 891.33pt>
+File: resources/children_internal.png Graphic file (type png)
+<use resources/children_internal.png>
+Package pdftex.def Info: resources/children_internal.png  used on input line 13
+9.
+(pdftex.def)             Requested size: 458.71263pt x 445.66391pt.
+
+Overfull \hbox (40.45708pt too wide) in paragraph at lines 139--140
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resources/children_external.png, id=56, 812.03375pt x 815.045pt>
+File: resources/children_external.png Graphic file (type png)
+<use resources/children_external.png>
+Package pdftex.def Info: resources/children_external.png  used on input line 14
+5.
+(pdftex.def)             Requested size: 406.01588pt x 407.5215pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resources/log-file.png, id=57, 1148.29pt x 1015.795pt>
 File: resources/log-file.png Graphic file (type png)
 <use resources/log-file.png>
-Package pdftex.def Info: resources/log-file.png  used on input line 145.
+Package pdftex.def Info: resources/log-file.png  used on input line 151.
 (pdftex.def)             Requested size: 574.14359pt x 507.89626pt.
 
-Overfull \hbox (155.88803pt too wide) in paragraph at lines 145--146
+Overfull \hbox (155.88803pt too wide) in paragraph at lines 151--152
  [][] 
  []
 
@@ -1451,43 +1465,63 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: resources/logo_west_small.png Graphic file (type png)
 <use resources/logo_west_small.png>
-Package pdftex.def Info: resources/logo_west_small.png  used on input line 150.
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 156.
 
 (pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
-[4 <./resources/crawl_count.png> <./resources/wiki-top-ten.png> <./resources/ex
-t-top-ten.png>]
+[4 <./resources/crawl_count.png> <./resources/internal.png>]
 File: resources/logo_west_small.png Graphic file (type png)
 <use resources/logo_west_small.png>
-Package pdftex.def Info: resources/logo_west_small.png  used on input line 150.
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 156.
 
 (pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
- [5 <./resources/mean_sigma.png> <./resources/log-file.png>]
+ [5 <./resources/external.png>]
+File: resources/logo_west_small.png Graphic file (type png)
+<use resources/logo_west_small.png>
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 156.
+
+(pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
+ [6 <./resources/children_internal.png>]
+File: resources/logo_west_small.png Graphic file (type png)
+<use resources/logo_west_small.png>
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 156.
+
+(pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
+ [7 <./resources/children_external.png>]
+File: resources/logo_west_small.png Graphic file (type png)
+<use resources/logo_west_small.png>
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 156.
+
+(pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
+ [8 <./resources/log-file.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 150.
+(hyperref)                removing `\hfill' on input line 156.
 
-<resources/vector.JPG, id=76, 290.88675pt x 248.127pt>
-File: resources/vector.JPG Graphic file (type jpg)
-<use resources/vector.JPG>
-Package pdftex.def Info: resources/vector.JPG  used on input line 166.
-(pdftex.def)             Requested size: 290.88603pt x 248.12637pt.
+<resources/vector.jpeg, id=92, 631.35875pt x 736.7525pt>
+File: resources/vector.jpeg Graphic file (type jpg)
+<use resources/vector.jpeg>
+Package pdftex.def Info: resources/vector.jpeg  used on input line 172.
+(pdftex.def)             Requested size: 315.6786pt x 368.37535pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 196.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 196.
 File: resources/logo_west_small.png Graphic file (type png)
 <use resources/logo_west_small.png>
-Package pdftex.def Info: resources/logo_west_small.png  used on input line 174.
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 198.
 
 (pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
-[6
+[9
 
- <./resources/vector.JPG>]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 190.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 190.
-<resources/Internet_Hosts_Count_log.png, id=97, 602.25pt x 481.8pt>
+]
+<resources/Internet_Hosts_Count_log.png, id=120, 602.25pt x 481.8pt>
 File: resources/Internet_Hosts_Count_log.png Graphic file (type png)
 <use resources/Internet_Hosts_Count_log.png>
 Package pdftex.def Info: resources/Internet_Hosts_Count_log.png  used on input 
-line 198.
+line 204.
 (pdftex.def)             Requested size: 301.12425pt x 240.8994pt.
 
 
@@ -1495,22 +1529,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: resources/logo_west_small.png Graphic file (type png)
 <use resources/logo_west_small.png>
-Package pdftex.def Info: resources/logo_west_small.png  used on input line 202.
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 208.
 
 (pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
-[7]
+[10 <./resources/vector.jpeg>]
 File: resources/logo_west_small.png Graphic file (type png)
 <use resources/logo_west_small.png>
-Package pdftex.def Info: resources/logo_west_small.png  used on input line 202.
+Package pdftex.def Info: resources/logo_west_small.png  used on input line 208.
 
 (pdftex.def)             Requested size: 51.21504pt x 10.63553pt.
- [8 <./resources/Internet_Hosts_Count_log.png>]
+ [11 <./resources/Internet_Hosts_Count_log.png>]
 No complaints by nag.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
 (./assignment_template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
 Package rerunfilecheck Info: File `assignment_template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1522,10 +1556,10 @@ Package logreq Info: Writing requests to 'assignment_template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29676 strings out of 480608
- 513478 string characters out of 5903629
- 1302982 words of memory out of 5000000
- 45008 multiletter control sequences out of 15000+600000
+ 29686 strings out of 480608
+ 513842 string characters out of 5903629
+ 1305125 words of memory out of 5000000
+ 45015 multiletter control sequences out of 15000+600000
  606286 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,15n,77p,10136b,790s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1542,10 +1576,10 @@ fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/
 public/lm/lmri10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/
 lmssbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt10.p
 fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on assignment_template.pdf (8 pages, 974390 bytes).
+Output written on assignment_template.pdf (11 pages, 2705857 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
- 22609 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 210 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 22614 words of extra memory for PDF output out of 24883 (max. 10000000)
 
