@@ -95,6 +95,15 @@ Additionally you are expected to handle any errors such as memory leak, http err
 
 \subsection{Limitations} 
 Briefly explain the potential limitations of your crawler (max 200 words). \textbf{Hint:} Think use cases for different websites when you use your crawler.
+\newline
+\newline
+\textbf{Solution}
+\begin{itemize}
+    \item \textbf{Difficult to Analyze:} For anybody, the extracting process is confusing to read. 
+    \item \textbf{Data Analysis:} The links that has been extracted will first need to be treated so that they can be easily understood. In some cases, this might take a long time and a lot of energy to complete.
+    \item \textbf{Time:} It is normal for new data extraction applications to take some time in the beginning to become familiar with the core application and need to adjust to the scrapping language.
+    \item \textbf{Speed and protection policies:} Most web scrapping services are slower than API calls and another problem is the websites that do not allow screen scraping. In such cases, web scrapping services are rendered useless.
+\end{itemize}
 
 \subsection{Web Crawl Statistics\label{web_crawl_stats}}
 
@@ -107,7 +116,36 @@ If you have successfully completed the first exercise of this assignment, then p
 \item For every Wiki page that you have read, count the unique number of internal links and external links. Then provide a histogram for internal links and external links. You can use a bin size of 5 and limit ranges between 0 and 50. Make sure that there is a title indicating mean and sigma values. Save both histogram in separate files.
 \item Additionally, save print logs of your task as a file with \texttt{.log} extension.
 \end{enumerate}
-
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.5]{resources/crawl_count.png}
+    \caption{Total Crawl count}  
+    \label{fig:crawl count}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.5]{resources/wiki-top-ten.png}
+    \caption{Wiki top 10 pages}  
+    \label{fig:Wiki top 10 pages}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.5]{resources/ext-top-ten.png}
+    \caption{External top 10 pages}  
+    \label{fig:External top 10 pages}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.5]{resources/mean_sigma.png}
+    \caption{Mean and Standard deviation}  
+    \label{fig:Mean and Standard deviation}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.5]{resources/log-file.png}
+    \caption{Log file}  
+    \label{fig:Log file}
+\end{figure}
 
 \section{Questions \hfill{20 Points}}
 Answer the following questions with your own words.  
